@@ -29,7 +29,7 @@
     alphabetical_word_count.c
     print_alphabetical_word_count.c
     create_alphabetical_array.c
-    free_alphabetical_array.c (NOTE: Does not work I dont know why. If you could give me feedback it would be great)
+    free_alphabetical_array.c
     print_words_alphabetically.c
     
 
